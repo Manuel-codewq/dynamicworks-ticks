@@ -1,0 +1,15 @@
+{
+  "name": "dynamicworks-tick-server",
+  "version": "1.0.0",
+  "description": "Servidor de ticks Deriv para DynamicWorks Angola",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
